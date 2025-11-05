@@ -1,4 +1,0 @@
-file,ensemble,n_models,uncertainty_score,image_path,softmax_path,uncertainty_path,energy_path,dice_score
-0013.tif,Unet_resnet34_2classes,3,0.028507188,/mnt/stick/DL models/ATF3 all/Testing/images/0013.tif,/tmp/zarru4g6h5nb/smx/0013.tif,/tmp/zarru4g6h5nb/std/0013.tif,,0.9363250454821104
-0014.tif,Unet_resnet34_2classes,3,0.035764243,/mnt/stick/DL models/ATF3 all/Testing/images/0014.tif,/tmp/zarru4g6h5nb/smx/0014.tif,/tmp/zarru4g6h5nb/std/0014.tif,,0.9047951603979792
-0015.tif,Unet_resnet34_2classes,3,0.023872497,/mnt/stick/DL models/ATF3 all/Testing/images/0015.tif,/tmp/zarru4g6h5nb/smx/0015.tif,/tmp/zarru4g6h5nb/std/0015.tif,,0.9318320718348926
